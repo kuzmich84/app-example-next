@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <h1>Hello TimeWeb!!!</h1>
+      <p>Hello World</p>
     </main>
   )
 }
